@@ -13,13 +13,10 @@ import java.sql.Statement;
 import java.text.DateFormat;
 import java.text.SimpleDateFormat;
 import java.util.ArrayList;
-import java.util.Date;
 import java.util.List;
 
 import javax.sql.DataSource;
 
-import com.mysql.jdbc.Connection;
-import com.mysql.jdbc.ConnectionImpl;
 import com.springinpractice.ch01.dao.AccountDao;
 import com.springinpractice.ch01.model.Account;
 
